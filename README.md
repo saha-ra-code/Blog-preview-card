@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https)
-- Live Site URL: [Add live site URL here](https://)
+- Solution URL: [Git repo](https://github.com/saha-ra-code/Blog-preview-card)
+- Live Site URL: [Live site](https://saha-ra-code.github.io/Blog-preview-card/)
 
 ## My process
 
